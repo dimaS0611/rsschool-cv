@@ -23,7 +23,7 @@
   
 # Education
  * Belarusian State University the faculty of applied mathematics and computer science | 2019 - 2023
- * Stanford CS192p | Spring 2020
+ * Stanford CS192p | Spring 2020 - Summer 2020
  * English language courses | B1+ level | Sep 2020 - June 2021
 
 # English
