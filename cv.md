@@ -2,12 +2,12 @@
 
 # Contacts: 
   * Discord: Dima_S#7302
-  * Telegram: @semenoviich
+  * Telegram: @semenoviich 
   * Phone number: +375(33)333-05-33 (MTS)
   * Email: dima.semenovich.01@icloud.com
   
 # Summary
-  Currently I'm a student of Belarusian State University the faculty of applied mathematics and computer science, the specialty I study for "Applied computer science". I have valuable experience working with C/C++, C#, Java and their frameworks, but from the very beginning of my programming way, I was interested in Apple and its ecosystem. IOS development is the most interesting direction for me at the moment. I studied swift and objective-c for personal purposes, and as well as part of the "Programming Technologies" discipline at the university. My goals for this course are to continue to develop in this direction, develop projects in my portfolio, and if I succeed, get into the EPAM lab at the end of the course.
+  Currently I'm a student of Belarusian State University the faculty of applied mathematics and computer science, the specialty I study for "Applied computer science". I have valuable experience working with C/C++, C#, Java and their frameworks, but from the very beginning of my programming way, I was interested in Apple and its ecosystem. IOS development is the most interesting direction for me at the moment. I studied swift and objective-c for personal purposes, and as well as part of the "Programming Technologies" discipline at the university. My goals for this course are to continue to develop in this direction, develop projects in my portfolio, and if I succeed, get into the EPAM lab at the end of the course!
   
 # Skills 
  * Swift  
